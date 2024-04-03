@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\bin\Debug\018_Chart1.exe.config
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\bin\Debug\018_Chart1.exe
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\bin\Debug\018_Chart1.pdb
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\_018_Chart1.Form1.resources
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\_018_Chart1.Properties.Resources.resources
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.exe
+C:\Users\konyang\source\repos\VP02_2024\018_Chart1\obj\Debug\018_Chart1.pdb

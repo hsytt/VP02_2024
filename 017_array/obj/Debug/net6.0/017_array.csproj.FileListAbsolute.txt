@@ -1,0 +1,15 @@
+C:\Users\konyang\source\repos\VP02_2024\017_array\bin\Debug\net6.0\017_array.exe
+C:\Users\konyang\source\repos\VP02_2024\017_array\bin\Debug\net6.0\017_array.deps.json
+C:\Users\konyang\source\repos\VP02_2024\017_array\bin\Debug\net6.0\017_array.runtimeconfig.json
+C:\Users\konyang\source\repos\VP02_2024\017_array\bin\Debug\net6.0\017_array.dll
+C:\Users\konyang\source\repos\VP02_2024\017_array\bin\Debug\net6.0\017_array.pdb
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.AssemblyInfoInputs.cache
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.AssemblyInfo.cs
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.dll
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\refint\017_array.dll
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.pdb
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\017_array.genruntimeconfig.cache
+C:\Users\konyang\source\repos\VP02_2024\017_array\obj\Debug\net6.0\ref\017_array.dll

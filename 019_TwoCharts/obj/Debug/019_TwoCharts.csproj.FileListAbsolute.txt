@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\_019_TwoCharts.Form1.resources
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\_019_TwoCharts.Properties.Resources.resources
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\bin\Debug\019_TwoCharts.exe.config
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\bin\Debug\019_TwoCharts.exe
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\bin\Debug\019_TwoCharts.pdb
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.exe
+C:\Users\konyang\source\repos\VP02_2024\019_TwoCharts\obj\Debug\019_TwoCharts.pdb
